@@ -1,7 +1,0 @@
-@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
-
-#Moz-Safe-Rewrite-prefs,
-#Moz-Safe-Rewrite-pane {
-	background-color:	#fff;
-	width:				500px;
-}
